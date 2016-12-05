@@ -11,13 +11,3 @@
 |
 */
 
-Route::get('/',[
-    'uses'=>'\W3spiders\Http\Controllers\HomeController@index',
-    'as'=>'home',
-]);
-
-
-Route::get('/AboutUs',[
-    'uses'=>'\W3spiders\Http\Controllers\HomeController@About',
-    'as'=>'AboutUs',
-]);
