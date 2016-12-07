@@ -11,3 +11,9 @@
 |
 */
 
+
+Route::get('/',[
+
+    'uses'=>'\W3spiders\Http\Controllers\Adminlogin@index',
+    'as'=>'w3-admin'
+]);

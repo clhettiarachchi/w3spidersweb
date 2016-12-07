@@ -1,0 +1,3 @@
+WARN: Can't load LiveEdit: since build 163.6957 does not match PS-162.1889.1
+WARN: Can't load Handlebars/Mustache: since build 163.6957 does not match PS-162.1889.1
+[2345132]  ERROR - rm.terminal.model.JediTerminal - Unsupported erase in display mode:3 
