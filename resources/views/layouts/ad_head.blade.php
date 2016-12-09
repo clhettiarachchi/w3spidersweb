@@ -18,5 +18,5 @@
     <link href="files/animate.css/animate.min.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
-    <link href="../build/css/custom.min.css" rel="stylesheet">
+    <link href="files/build/custom.min.css" rel="stylesheet">
 </head>
